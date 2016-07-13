@@ -292,24 +292,21 @@ li > ol, li > ul {
 
 h1 {
   color: #0af;
-  font-weight: normal;
-  font-weight: 100;
+  font-weight: 400;
   text-shadow: 0 0 50px #0af, 0 0 3px #fff;
 }
 
 h2 {
   color: #af0;
   border-bottom-color: #ccc;
-  font-weight: normal;
-  font-weight: 100;
+  font-weight: 400;
   text-shadow: 0 0 15px #af0, 0 0 2px #fff;
   border-bottom: 1px solid #333;
 }
 
 h3 {
   color: #fff;
-  font-weight: normal;
-  font-weight: 100;
+  font-weight: 400;
   text-shadow: 0 0 10px #fff, 0 0 2px #fff;
 }
 
@@ -359,7 +356,7 @@ a:hover, a:focus {
 }
 
 .deck-container {
-  font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
+  font-family: "Source Sans Pro", "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
   font-size: 1.75em;
   color: #aaa;
   background: #000;
