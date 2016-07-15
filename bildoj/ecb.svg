@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created by diasvg.py -->
+<svg width="24.600cm" height="7.200cm" viewBox="4.450 4.950 29.050 12.150"
+ xmlns="http://www.w3.org/2000/svg"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+<rect x="9.500" y="7.500" width="2.127" height="2.000" fill="#000000" stroke="none" stroke-width="0"/>
+<rect x="9.500" y="7.500" width="2.127" height="2.000" fill="none" stroke="#FFFFFF" stroke-width="0.099" />
+<text x="10.563" y="8.730"  fill="#FFFFFF" text-anchor="middle" font-size="0.80" font-family="Source Sans Pro" font-style="normal" font-weight="400">
+AES</text>
+<line x1="8.046" y1="8.529" x2="8.964" y2="8.519" stroke="#FFFFFF" stroke-width="0.100" />
+<polygon fill="#FFFFFF" stroke="none" stroke-width="0.100" points="9.339,8.514 8.842,8.770 8.964,8.519 8.836,8.270 "/>
+<polygon fill="none" stroke="#FFFFFF" stroke-width="0.100"  points="9.339,8.514 8.842,8.770 8.964,8.519 8.836,8.270 "/>
+<line x1="10.513" y1="6.150" x2="10.530" y2="6.964" stroke="#FFFFFF" stroke-width="0.100" />
+<polygon fill="#FFFFFF" stroke="none" stroke-width="0.100" points="10.538,7.339 10.278,6.844 10.530,6.964 10.778,6.834 "/>
+<polygon fill="none" stroke="#FFFFFF" stroke-width="0.100"  points="10.538,7.339 10.278,6.844 10.530,6.964 10.778,6.834 "/>
+<line x1="10.542" y1="9.549" x2="10.523" y2="10.464" stroke="#FFFFFF" stroke-width="0.100" />
+<polygon fill="#FFFFFF" stroke="none" stroke-width="0.100" points="10.515,10.839 10.275,10.334 10.523,10.464 10.775,10.344 "/>
+<polygon fill="none" stroke="#FFFFFF" stroke-width="0.100"  points="10.515,10.839 10.275,10.334 10.523,10.464 10.775,10.344 "/>
+<path stroke="none" fill="#000000" stroke-width="0.100" d="M 9.500,5.000 L 11.500,5.000 C 11.776,5.000 12.000,5.246 12.000,5.550 C 12.000,5.854 11.776,6.100 11.500,6.100 L 9.500,6.100 C 9.224,6.100 9.000,5.854 9.000,5.550 C 9.000,5.246 9.224,5.000 9.500,5.000 "/>
+<path stroke="#FFFFFF" fill="none" stroke-width="0.100"  d="M 9.500,5.000 L 11.500,5.000 C 11.776,5.000 12.000,5.246 12.000,5.550 C 12.000,5.854 11.776,6.100 11.500,6.100 L 9.500,6.100 C 9.224,6.100 9.000,5.854 9.000,5.550 C 9.000,5.246 9.224,5.000 9.500,5.000 "/>
+<text x="10.500" y="5.790"  fill="#FFFFFF" text-anchor="middle" font-size="0.80" font-family="Source Sans Pro" font-style="normal" font-weight="400">
+parto</text>
+<path stroke="none" fill="#000000" stroke-width="0.099" d="M 5.083,8.000 L 7.417,8.000 C 7.739,8.000 8.000,8.246 8.000,8.550 C 8.000,8.854 7.739,9.100 7.417,9.100 L 5.083,9.100 C 4.761,9.100 4.500,8.854 4.500,8.550 C 4.500,8.246 4.761,8.000 5.083,8.000 "/>
+<path stroke="#FFFFFF" fill="none" stroke-width="0.099"  d="M 5.083,8.000 L 7.417,8.000 C 7.739,8.000 8.000,8.246 8.000,8.550 C 8.000,8.854 7.739,9.100 7.417,9.100 L 5.083,9.100 C 4.761,9.100 4.500,8.854 4.500,8.550 C 4.500,8.246 4.761,8.000 5.083,8.000 "/>
+<text x="6.250" y="8.790"  fill="#FFFFFF" text-anchor="middle" font-size="0.80" font-family="Source Sans Pro" font-style="normal" font-weight="400">
+ŝlosilo</text>
+<path stroke="none" fill="#000000" stroke-width="0.100" d="M 9.500,11.000 L 11.500,11.000 C 11.776,11.000 12.000,11.246 12.000,11.550 C 12.000,11.854 11.776,12.100 11.500,12.100 L 9.500,12.100 C 9.224,12.100 9.000,11.854 9.000,11.550 C 9.000,11.246 9.224,11.000 9.500,11.000 "/>
+<path stroke="#FFFFFF" fill="none" stroke-width="0.100"  d="M 9.500,11.000 L 11.500,11.000 C 11.776,11.000 12.000,11.246 12.000,11.550 C 12.000,11.854 11.776,12.100 11.500,12.100 L 9.500,12.100 C 9.224,12.100 9.000,11.854 9.000,11.550 C 9.000,11.246 9.224,11.000 9.500,11.000 "/>
+<text x="10.500" y="11.790"  fill="#FFFFFF" text-anchor="middle" font-size="0.80" font-family="Source Sans Pro" font-style="normal" font-weight="400">
+ĉifrita</text>
+<rect x="18.000" y="7.500" width="2.127" height="2.000" fill="#000000" stroke="none" stroke-width="0"/>
+<rect x="18.000" y="7.500" width="2.127" height="2.000" fill="none" stroke="#FFFFFF" stroke-width="0.099" />
+<text x="19.063" y="8.730"  fill="#FFFFFF" text-anchor="middle" font-size="0.80" font-family="Source Sans Pro" font-style="normal" font-weight="400">
+AES</text>
+<line x1="16.546" y1="8.529" x2="17.464" y2="8.519" stroke="#FFFFFF" stroke-width="0.100" />
+<polygon fill="#FFFFFF" stroke="none" stroke-width="0.100" points="17.839,8.514 17.342,8.770 17.464,8.519 17.336,8.270 "/>
+<polygon fill="none" stroke="#FFFFFF" stroke-width="0.100"  points="17.839,8.514 17.342,8.770 17.464,8.519 17.336,8.270 "/>
+<line x1="19.013" y1="6.150" x2="19.030" y2="6.964" stroke="#FFFFFF" stroke-width="0.100" />
+<polygon fill="#FFFFFF" stroke="none" stroke-width="0.100" points="19.038,7.339 18.778,6.844 19.030,6.964 19.278,6.834 "/>
+<polygon fill="none" stroke="#FFFFFF" stroke-width="0.100"  points="19.038,7.339 18.778,6.844 19.030,6.964 19.278,6.834 "/>
+<line x1="19.042" y1="9.549" x2="19.023" y2="10.464" stroke="#FFFFFF" stroke-width="0.100" />
+<polygon fill="#FFFFFF" stroke="none" stroke-width="0.100" points="19.015,10.839 18.775,10.334 19.023,10.464 19.275,10.344 "/>
+<polygon fill="none" stroke="#FFFFFF" stroke-width="0.100"  points="19.015,10.839 18.775,10.334 19.023,10.464 19.275,10.344 "/>
+<path stroke="none" fill="#000000" stroke-width="0.100" d="M 18.000,5.000 L 20.000,5.000 C 20.276,5.000 20.500,5.246 20.500,5.550 C 20.500,5.854 20.276,6.100 20.000,6.100 L 18.000,6.100 C 17.724,6.100 17.500,5.854 17.500,5.550 C 17.500,5.246 17.724,5.000 18.000,5.000 "/>
+<path stroke="#FFFFFF" fill="none" stroke-width="0.100"  d="M 18.000,5.000 L 20.000,5.000 C 20.276,5.000 20.500,5.246 20.500,5.550 C 20.500,5.854 20.276,6.100 20.000,6.100 L 18.000,6.100 C 17.724,6.100 17.500,5.854 17.500,5.550 C 17.500,5.246 17.724,5.000 18.000,5.000 "/>
+<text x="19.000" y="5.790"  fill="#FFFFFF" text-anchor="middle" font-size="0.80" font-family="Source Sans Pro" font-style="normal" font-weight="400">
+parto</text>
+<path stroke="none" fill="#000000" stroke-width="0.099" d="M 13.583,8.000 L 15.917,8.000 C 16.239,8.000 16.500,8.246 16.500,8.550 C 16.500,8.854 16.239,9.100 15.917,9.100 L 13.583,9.100 C 13.261,9.100 13.000,8.854 13.000,8.550 C 13.000,8.246 13.261,8.000 13.583,8.000 "/>
+<path stroke="#FFFFFF" fill="none" stroke-width="0.099"  d="M 13.583,8.000 L 15.917,8.000 C 16.239,8.000 16.500,8.246 16.500,8.550 C 16.500,8.854 16.239,9.100 15.917,9.100 L 13.583,9.100 C 13.261,9.100 13.000,8.854 13.000,8.550 C 13.000,8.246 13.261,8.000 13.583,8.000 "/>
+<text x="14.750" y="8.790"  fill="#FFFFFF" text-anchor="middle" font-size="0.80" font-family="Source Sans Pro" font-style="normal" font-weight="400">
+ŝlosilo</text>
+<path stroke="none" fill="#000000" stroke-width="0.100" d="M 18.000,11.000 L 20.000,11.000 C 20.276,11.000 20.500,11.246 20.500,11.550 C 20.500,11.854 20.276,12.100 20.000,12.100 L 18.000,12.100 C 17.724,12.100 17.500,11.854 17.500,11.550 C 17.500,11.246 17.724,11.000 18.000,11.000 "/>
+<path stroke="#FFFFFF" fill="none" stroke-width="0.100"  d="M 18.000,11.000 L 20.000,11.000 C 20.276,11.000 20.500,11.246 20.500,11.550 C 20.500,11.854 20.276,12.100 20.000,12.100 L 18.000,12.100 C 17.724,12.100 17.500,11.854 17.500,11.550 C 17.500,11.246 17.724,11.000 18.000,11.000 "/>
+<text x="19.000" y="11.790"  fill="#FFFFFF" text-anchor="middle" font-size="0.80" font-family="Source Sans Pro" font-style="normal" font-weight="400">
+ĉifrita</text>
+<rect x="26.500" y="7.500" width="2.127" height="2.000" fill="#000000" stroke="none" stroke-width="0"/>
+<rect x="26.500" y="7.500" width="2.127" height="2.000" fill="none" stroke="#FFFFFF" stroke-width="0.099" />
+<text x="27.563" y="8.730"  fill="#FFFFFF" text-anchor="middle" font-size="0.80" font-family="Source Sans Pro" font-style="normal" font-weight="400">
+AES</text>
+<line x1="25.046" y1="8.529" x2="25.964" y2="8.519" stroke="#FFFFFF" stroke-width="0.100" />
+<polygon fill="#FFFFFF" stroke="none" stroke-width="0.100" points="26.339,8.514 25.842,8.770 25.964,8.519 25.836,8.270 "/>
+<polygon fill="none" stroke="#FFFFFF" stroke-width="0.100"  points="26.339,8.514 25.842,8.770 25.964,8.519 25.836,8.270 "/>
+<line x1="27.513" y1="6.150" x2="27.530" y2="6.964" stroke="#FFFFFF" stroke-width="0.100" />
+<polygon fill="#FFFFFF" stroke="none" stroke-width="0.100" points="27.538,7.339 27.278,6.844 27.530,6.964 27.778,6.834 "/>
+<polygon fill="none" stroke="#FFFFFF" stroke-width="0.100"  points="27.538,7.339 27.278,6.844 27.530,6.964 27.778,6.834 "/>
+<line x1="27.542" y1="9.549" x2="27.523" y2="10.464" stroke="#FFFFFF" stroke-width="0.100" />
+<polygon fill="#FFFFFF" stroke="none" stroke-width="0.100" points="27.515,10.839 27.275,10.334 27.523,10.464 27.775,10.344 "/>
+<polygon fill="none" stroke="#FFFFFF" stroke-width="0.100"  points="27.515,10.839 27.275,10.334 27.523,10.464 27.775,10.344 "/>
+<path stroke="none" fill="#000000" stroke-width="0.100" d="M 26.500,5.000 L 28.500,5.000 C 28.776,5.000 29.000,5.246 29.000,5.550 C 29.000,5.854 28.776,6.100 28.500,6.100 L 26.500,6.100 C 26.224,6.100 26.000,5.854 26.000,5.550 C 26.000,5.246 26.224,5.000 26.500,5.000 "/>
+<path stroke="#FFFFFF" fill="none" stroke-width="0.100"  d="M 26.500,5.000 L 28.500,5.000 C 28.776,5.000 29.000,5.246 29.000,5.550 C 29.000,5.854 28.776,6.100 28.500,6.100 L 26.500,6.100 C 26.224,6.100 26.000,5.854 26.000,5.550 C 26.000,5.246 26.224,5.000 26.500,5.000 "/>
+<text x="27.500" y="5.790"  fill="#FFFFFF" text-anchor="middle" font-size="0.80" font-family="Source Sans Pro" font-style="normal" font-weight="400">
+parto</text>
+<path stroke="none" fill="#000000" stroke-width="0.099" d="M 22.083,8.000 L 24.417,8.000 C 24.739,8.000 25.000,8.246 25.000,8.550 C 25.000,8.854 24.739,9.100 24.417,9.100 L 22.083,9.100 C 21.761,9.100 21.500,8.854 21.500,8.550 C 21.500,8.246 21.761,8.000 22.083,8.000 "/>
+<path stroke="#FFFFFF" fill="none" stroke-width="0.099"  d="M 22.083,8.000 L 24.417,8.000 C 24.739,8.000 25.000,8.246 25.000,8.550 C 25.000,8.854 24.739,9.100 24.417,9.100 L 22.083,9.100 C 21.761,9.100 21.500,8.854 21.500,8.550 C 21.500,8.246 21.761,8.000 22.083,8.000 "/>
+<text x="23.250" y="8.790"  fill="#FFFFFF" text-anchor="middle" font-size="0.80" font-family="Source Sans Pro" font-style="normal" font-weight="400">
+ŝlosilo</text>
+<path stroke="none" fill="#000000" stroke-width="0.100" d="M 26.500,11.000 L 28.500,11.000 C 28.776,11.000 29.000,11.246 29.000,11.550 C 29.000,11.854 28.776,12.100 28.500,12.100 L 26.500,12.100 C 26.224,12.100 26.000,11.854 26.000,11.550 C 26.000,11.246 26.224,11.000 26.500,11.000 "/>
+<path stroke="#FFFFFF" fill="none" stroke-width="0.100"  d="M 26.500,11.000 L 28.500,11.000 C 28.776,11.000 29.000,11.246 29.000,11.550 C 29.000,11.854 28.776,12.100 28.500,12.100 L 26.500,12.100 C 26.224,12.100 26.000,11.854 26.000,11.550 C 26.000,11.246 26.224,11.000 26.500,11.000 "/>
+<text x="27.500" y="11.790"  fill="#FFFFFF" text-anchor="middle" font-size="0.80" font-family="Source Sans Pro" font-style="normal" font-weight="400">
+ĉifrita</text>
+</svg>

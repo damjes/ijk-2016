@@ -70,6 +70,7 @@
            <li>Esperanto (naturale)</li>
            <li>Rumanio kaj Moldavo</li>
            <li>Koreo</li>
+           <li>Kuboj de Rubik</li>
          </ul>
        </div>
        <div style="width: 45%; float: right;">
@@ -85,12 +86,175 @@
      </div>
    </section>
 
+	<section class="slide">
+		<h1>Zelda klubo</h1>
+	</section>
+
     <section class="slide">
-      <h1>Content</h1>
+      <h2>Nia ekzemplo: Zelda Klubo</h2>
+      <p>Eva volas rompi ion</p>
+      <img src="bildoj/chefa-bildo.svg"/>
+    </section>
+    
+    <section class="slide">
+      <h2>Matematiko malantaŭ ĉifroj</h2>
+      <p>Kial tio funkcias?</p>
+      <img src="bildoj/chefa-matematiko.svg"/>
+    </section>
+    
+    <section class="slide">
+      <h2>Estu sekura en interreto</h2>
+      <p>Alico volas labori en kafejo...</p>
+      <img src="bildoj/chefa-sekura.svg"/>
+    </section>
+    
+    <section class="slide">
+      <h2>Sekuraj retmesaĝoj kun RSA</h2>
+      <p>Boriso uzas RSA por retmesaĝi kaj retumi</p>
+      <img src="bildoj/chefa-komunikado.svg"/>
+    </section>
+    
+    <section class="slide">
+      <h2>Sekurigu vian servilon</h2>
+      <p>Alico devas sekurigi servilon</p>
+      <img src="bildoj/chefa-servilo.svg"/>
     </section>
 
     <section class="slide">
-      <h1>Here</h1>
+      <h1>Kio estas ŝlosilo?</h1>
+    </section>
+    
+    <section class="slide">
+    	<h2>Ĉifro de Cezaro</h2>
+    	<p>A B C Ĉ D E F G Ĝ H Ĥ I J Ĵ K L M N O P R S Ŝ T U Ŭ V Z</p>
+    	<p class="slide">EkZemplo &rarr; FlAfnmp</p>
+    	<p class="slide">Malĉifrado estas facila</p>
+    	<p class="slide">Metodo devas esti intima... <span class="slide"><br/>...kaj nova situacio bezonas novan ĉifron</span></p>
+    	<p class="slide">Metodo ankaŭ devas esti sekura!</p>
+    </section>
+    
+    <section class="slide">
+    	<h2>Ŝlosilo</h2>
+    	<p>Elektu n</p>
+    	<p>Saltu tra n signoj</p>
+    	<p class="slide">Nun ĉifro povas esti publike konata<span class="slide">...sed devas esti sekura</span></p>
+    	<p class="slide">Nur ŝlosilo devas esti intima</p>
+    </section>
+    
+    <section class="slide">
+    	<h2>Ĉu AES povas esti malsekura?</h2>
+    	<p>Simetra ĉifro</p>
+    	<p>
+    		Sekura
+    		<blockquote>
+    			At present, there are no known practical attacks that would allow anyone to read correctly implemented AES encrypted data.
+    			<p><cite>Angla Vikipedio</cite></p>
+    		</blockquote>
+    	</p>
+    </section>
+
+    <section class="slide">
+    	<h2>Ĉu AES povas esti malsekura?</h2>
+    	<p>Simetra, sekura, bloka ĉifro</p>
+    	<p class="slide">Ni devas ĉifri bildon, sed bildo estas tro granda por AES</p>
+    	<div class="slide">
+    		<p>Dividu bildon kaj ĉifru (ECB)</p>
+    		<img src="bildoj/ecb.svg"/>
+    	</div>
+    </section>
+    
+    <section class="slide">
+    	<h2>Ĉu AES(+ECB) povas esti malsekura?</h2>
+    	<img src="bildoj/ecb.jpg"/>
+    	<p>fonto: <a href="http://http.developer.nvidia.com/GPUGems3/gpugems3_ch36.html">http://http.developer.nvidia.com/GPUGems3/gpugems3_ch36.html</a></p>
+    	<p class="slide">Tio estas malsekura!</p>
+    	<p class="slide">Ne uzu ECB!</p>
+    </section>
+    
+    <section class="slide">
+    	<h2>Konkludoj</h2>
+    	<p>Nova situacio &rArr; nova "ĉifro"</p>
+    	<p class="slide">Kreado de bona ĉifro estas taŭga tasko</p>
+    	<p class="slide">Do uzu bonan publikan ĉifron kun intiman ŝlosilon</p>
+    	<p class="slide">Simetra ĉifro: X povas ĉifri &hArr; X povas malĉifri</p>
+    </section>
+    
+    <section class="slide">
+    	<h1>RSA</h1>
+    </section>
+    
+    <section class="slide">
+    	<h2>Kreado de ŝlosilojn</h2>
+    	<ol>
+    		<li class="slide">Elektu grandecon</li>
+    		<li class="slide">Kreu "skatolon"</li>
+    		<li class="slide">Kreu du ŝlosilojn: Ŝ1 kaj Ŝ2 ("sameco" estas nur en RSA!)</li>
+    		<li class="slide">Neniigu "skatolon"</li>
+    	</ol>
+    	<ul>
+    		<li class="slide">Oni ne povas rekrei skatolon</li>
+    		<li class="slide">Oni ne povas rekrei unu ŝlosilon el alian sen skatolo</li>
+    		<li class="slide">Kion unu ĉifras, alia malĉifras</li>
+    	</ul>
+    	<p class="slide">Do oni povas doni unu ŝlosilon al publiko!</p>
+    	<p class="slide">Do unu estos privata (PRV) kaj alia estos publika (PUB)</p>
+    </section>
+    
+    <section class="slide">
+    	<h2>Ĉifrado</h2>
+    	<p>Boriso volas sendi retmesaĝon</p>
+    	<p>Eva ne povas legi tion</p>
+    	<p>Nur Alico povu legi tion</p>
+    	<p>Kia ŝlosilo por ĉifri? Kia por malĉifri?</p>
+    </section>
+    
+    <section class="slide">
+    	<h2>Mojosaĵo!</h2>
+    	<p>Boriso volas sendi retmesaĝon</p>
+    	<p>Alico volas scii, ĉu Boriso sendis tion</p>
+    	<p>Boriso devas fari <strong>ciferecan subskribon</strong></p>
+    	<p class="slide">Boriso ĉifras (kia ŝlosilo?)</p>
+    	<p class="slide">Alico kontrolas (kia ŝlosilo?)</p>
+    </section>
+    
+    <section class="slide">
+    	<h2>Fidreto</h2>
+    	<p class="slide">Boriso, por ĉifri, devas havi <strong>bonan</strong> publikan ŝlosilon de Alico</p>
+    	<p class="slide">Alico, por kontroli, ankaŭ bezonas bonan ŝlosilon de Boriso</p>
+    	<p class="slide">Sed ŝlosiloj ankaŭ povas esti subskribitaj!</p>
+    	<ol>
+    		<li class="slide">Alico vidis identigan karton de Ludoviko</li>
+    		<li class="slide">Ludoviko donis al Alice <strong>fingrospuron</strong> de Ludovikan ŝlosilon</li>
+    		<li class="slide">Alico scias, ke <em>tia</em> homo posedas <em>tian</em> ŝlosilon</li>
+    		<li class="slide">Alico subskribas ŝlosilon de Ludoviko</li>
+    		<li class="slide">Alico kredas je ŝlosilo de Klaro, ĉar Ludoviko subskribis tion</li>
+    		<li class="slide">Alico kredas je ŝlosilo de Boriso, ĉar Klaro subskribis tion</li>
+    	</ol>
+    	<p class="slide">
+    		Alico
+    		<span class="slide">
+    			&rarr; Ludoviko
+    			<span class="slide">
+    				&rarr; Klaro
+    				<span class="slide">
+    					&rarr; Boriso
+    				</span>
+    			</span>
+    		</span>
+    	</p>
+    	<p class="slide">Tio nomiĝas <strong>fidreto</strong> (angle web of trust)</p>
+    </section>
+    
+    <section class="slide">
+    	<h1>Ŝlosilsubskriba festo</h1>
+    </section>
+    
+    <section class="slide">
+    	<h1>SSL/HTTPS</h1>
+    </section>
+    
+    <section class="slide">
+    	<h1>Praktike!</h1>
     </section>
 
     <!-- End slides. -->
